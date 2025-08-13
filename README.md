@@ -29,4 +29,4 @@ Features
 
     *  Both → Display and save the image.
 
-     * Automatically resizes and centers the image for better viewing.
+    * Automatically resizes and centers the image for better viewing.
