@@ -8,3 +8,11 @@ image_downloader_project/
 │── utils.py         # Helper functions
 <br>
 │── requirements.txt # Dependencies
+<br>
+<hr>
+Access web app from following url
+<br>
+url = <b>https://imagedownloaderproject-8ufsogetszzz9x8mzfvrgk.streamlit.app/</b>
+<br>
+A simple Streamlit web app that allows you to download and view images from a URL or local path using OpenCV.
+You can try the live app here: Image Downloader Web App
